@@ -1,0 +1,11 @@
+# Newsletter feed sources — one URL per line.
+# Lines starting with '#' and blank lines are ignored.
+# Put the RSS/Atom feed URL for each blog (often <site>/feed, /rss, or /atom.xml).
+# The README mentions 6 URLs — replace the placeholders below with the real feeds.
+
+# https://example.com/feed
+# https://example.org/rss
+# https://blog.example.net/atom.xml
+# https://example.dev/index.xml
+# https://news.example.com/feed.xml
+# https://example.io/rss.xml
